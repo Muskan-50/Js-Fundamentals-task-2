@@ -1,5 +1,4 @@
-<!doctype html><html><head></head><body><script type="text/javascript">1) using var and Data Types 
-
+//using var and Data Ty
 var name = "Ali";               // String
 
 var age = 25;                   // Number
